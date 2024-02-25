@@ -12,7 +12,7 @@ Navigate through different sections using the links provided on the page. Discov
 
 
 ## Screen-shot
-![alt text](<Screenshot 2024-02-25 at 16.54.17.png>)
+![alt text](</Assets/images/Screenshot 2024-02-25 at 16.54.17.png>)
 
 ## Technology used
 - HTML 
